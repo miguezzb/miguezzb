@@ -15,8 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=miguezzb&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-## 🥇 Badges  
-[![Credly Badge](https://cdn.credly.com/assets/utilities/embed.js)](https://www.credly.com/badges/a1e5d76c-89e9-464f-95f2-dcc1a14de)
+## 🥇 Badges
+<a href="https://www.credly.com/badges/a1e5d76c-89e9-464f-95f2-dcc1a14d524c/public_url" target="_blank">
+  <img width="150" height="270" src="https://images.credly.com/size/220x220/images/55d8a060-354a-4e4c-8f41-047b0153f3c4/image.png" alt="Credly Badge">
+</a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=miguezzb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
