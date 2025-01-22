@@ -17,7 +17,7 @@
 
 ## 🥇 Badges
 <a href="https://www.credly.com/badges/a1e5d76c-89e9-464f-95f2-dcc1a14d524c/public_url" target="_blank">
-  <img width="150" height="270" src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Credly Badge">
+  <img width="100" height="100" src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Credly Badge">
 </a>
 
 ### 🔝 Top Contributed Repo
